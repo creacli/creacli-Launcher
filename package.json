@@ -1,20 +1,20 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "2.1.1",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "name": "creacli-Launcher",
+    "preductname": "creacli Launcher",
+    "version": "1.0.0",
+    "description": "Launcher Mincraft",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
+        "name": "luuxis, creacli, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "https://creacli.web.jtheberg.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/luuxis/Selvania-Launcher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=https://creacli.web.jtheberg.fr/files/icontrobgla.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
