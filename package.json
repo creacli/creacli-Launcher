@@ -1,7 +1,7 @@
 {
     "name": "creacli-Launcher",
     "preductname": "creacli Launcher",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Launcher Mincraft",
     "main": "src/app.js",
     "author": {
@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://creacli.web.jtheberg.fr/files/icontrobgla.png"
+        "icon": "node build.js --icon=https://creacli.web.jtheberg.fr/Sans%20titre-1.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
