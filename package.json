@@ -1,7 +1,7 @@
 {
     "name": "creacli-Launcher",
     "preductname": "creacli Launcher",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Launcher Mincraft",
     "main": "src/app.js",
     "author": {
