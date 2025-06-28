@@ -30,7 +30,7 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "hannnnnnnn", "author": "Creacli" },
+            { "message": "hannnnnnn", "author": "Creacli" },
             { "message": "frero t la gg", "author": "Creacli" },
             { "message": "SaraMusta utilise peut-être des marcos ?", "author": "Creacli" }
         ];
